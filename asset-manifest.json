@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/CCCU-LTD-Website-Clone-With-React/static/css/main.a70392b0.css",
+    "main.js": "/CCCU-LTD-Website-Clone-With-React/static/js/main.393e31f0.js",
+    "static/media/1.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/1.a1510af035140a3761de.JPG",
+    "static/media/card.png": "/CCCU-LTD-Website-Clone-With-React/static/media/card.7b0a7789b74253011efc.png",
+    "static/media/dc_child.jpg": "/CCCU-LTD-Website-Clone-With-React/static/media/dc_child.46ec12a9dc0616025ba8.jpg",
+    "static/media/index_founder.png": "/CCCU-LTD-Website-Clone-With-React/static/media/index_founder.bd5ebf79f4a400f7f529.png",
+    "static/media/hostel.jpg": "/CCCU-LTD-Website-Clone-With-React/static/media/hostel.5d12214f4e3c55666db6.jpg",
+    "static/media/dcschool.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/dcschool.cd422126cda12c59d442.JPG",
+    "static/media/4.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/4.7a29290173dd19b9cbb5.JPG",
+    "static/media/unity1.jpg": "/CCCU-LTD-Website-Clone-With-React/static/media/unity1.74bbc8c5feb93fa4a1a7.jpg",
+    "static/media/debit_card_family.png": "/CCCU-LTD-Website-Clone-With-React/static/media/debit_card_family.810e4bb3177f7f062601.png",
+    "static/media/3.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/3.6f39a300bd6ff876ad9b.JPG",
+    "static/media/7.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/7.289677c8263adc93064f.JPG",
+    "static/media/2.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/2.59e4022b1325310f52a6.JPG",
+    "static/media/8.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/8.645be1e3bf7d75a43f82.JPG",
+    "static/media/10.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/10.9bfc5e24cff1f59369dc.JPG",
+    "static/media/5.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/5.0248a2b0541f4beaed69.JPG",
+    "static/media/11.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/11.9682abdd8b67ef4b7216.JPG",
+    "static/media/golden_logo.png": "/CCCU-LTD-Website-Clone-With-React/static/media/golden_logo.1b20e027818a0da4c322.png",
+    "static/media/6.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/6.53d13b6ee45aae0bebf9.JPG",
+    "static/media/9.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/9.3f1406c855c0576df342.JPG",
+    "static/media/12.JPG": "/CCCU-LTD-Website-Clone-With-React/static/media/12.a581a1fd4a86509a0637.JPG",
+    "index.html": "/CCCU-LTD-Website-Clone-With-React/index.html",
+    "main.a70392b0.css.map": "/CCCU-LTD-Website-Clone-With-React/static/css/main.a70392b0.css.map",
+    "main.393e31f0.js.map": "/CCCU-LTD-Website-Clone-With-React/static/js/main.393e31f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a70392b0.css",
+    "static/js/main.393e31f0.js"
+  ]
+}
